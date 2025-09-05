@@ -115,6 +115,10 @@ header{
     border: none;
     border-radius: 5px;
 }
+.search > button > i{
+    font-size: 30px;
+    font-weight: 400;
+}
 
 .main1{
     background-color: black;
